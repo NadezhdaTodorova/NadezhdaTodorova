@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NadezhdaTodorova
-- 👀 I’m interested in React, Angular, Vue.js, C#
-- 🌱 I’m currently learning React, Angular, C#
-- 💞️ I’m looking to collaborate on React, Angular projects
+- 👀 I’m interested in React
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me nadezhdatodorova@icloud.com
 
 <!---
